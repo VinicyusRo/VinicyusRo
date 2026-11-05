@@ -43,7 +43,7 @@
 | --- | --- | --- |
 | [**Projeção Assembleia**](https://github.com/VinicyusRo/projecao-assembleia) | Presentation software for church services: song lyrics, hymns, Bible verses, announcements and an automatic display screen. Includes a phone remote-control app over the local network, automatic backups and an installer built by GitHub Actions (16 releases). | Electron, JavaScript, Node.js, GitHub Actions |
 | [**Church Display**](https://github.com/VinicyusRo/igreja-telao) · [live site](https://igreja-telao.vercel.app) | Web app that celebrates the week's birthdays, registers visitors and shows everything on the big screen, with login and access roles (admin, reception, media, display). | HTML, JavaScript, Supabase (RLS) |
-| [**PC Store**](https://github.com/VinicyusRo/e-commerce_trabalho) · [live site](https://e-commerce-trabalho.vercel.app) | E-commerce for PC parts with a 3D preview of each product, a REST API with JWT login and orders saved in database transactions. | Vite, Three.js, Node.js, PostgreSQL |
+| [**TechForAll**](https://github.com/VinicyusRo/e-commerce_trabalho) · [live site](https://e-commerce-trabalho.vercel.app) | E-commerce for PC parts with a 3D preview of each product and a "Build your PC" tool that only shows compatible parts and animates the build in 3D. REST API with JWT login, cart, checkout and orders saved in database transactions. | Vite, Three.js, Node.js, Express, PostgreSQL |
 | [**Games Store API**](https://github.com/VinicyusRo/games-store-api) | API for a game store (fork of a collaborative project). | Java |
 
 ### Contact
@@ -69,7 +69,7 @@
 | --- | --- | --- |
 | [**Projeção Assembleia**](https://github.com/VinicyusRo/projecao-assembleia) | Programa de projeção para cultos: letras, hinos, Bíblia, avisos e telão automático. Tem app no celular pela rede local, backup automático e instalador gerado pelo GitHub Actions (16 versões publicadas). | Electron, JavaScript, Node.js, GitHub Actions |
 | [**Telão da Igreja**](https://github.com/VinicyusRo/igreja-telao) · [ver site](https://igreja-telao.vercel.app) | Site para celebrar os aniversariantes da semana, registrar visitantes e exibir tudo no telão, com login e perfis de acesso (admin, recepção, mídia, telão). | HTML, JavaScript, Supabase (RLS) |
-| [**PC Store**](https://github.com/VinicyusRo/e-commerce_trabalho) · [ver site](https://e-commerce-trabalho.vercel.app) | E-commerce de peças de PC com prévia 3D de cada produto, API REST com login JWT e pedidos em transação no banco. | Vite, Three.js, Node.js, PostgreSQL |
+| [**TechForAll**](https://github.com/VinicyusRo/e-commerce_trabalho) · [ver site](https://e-commerce-trabalho.vercel.app) | E-commerce de peças de PC com prévia 3D de cada produto e "Monte seu PC", que só mostra peças compatíveis e anima a montagem em 3D. API REST com login JWT, carrinho, checkout e pedidos em transação no banco. | Vite, Three.js, Node.js, Express, PostgreSQL |
 | [**Games Store API**](https://github.com/VinicyusRo/games-store-api) | API de uma loja de games (fork de projeto colaborativo). | Java |
 
 ### Contato
